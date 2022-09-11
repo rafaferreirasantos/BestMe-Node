@@ -1,0 +1,19 @@
+{
+  "name": "bestme",
+  "version": "1.0.0",
+  "description": "The best version of me. Helping me to improve.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Improve",
+    "best",
+    "version",
+    "of",
+    "me"
+  ],
+  "author": "Santos, Rafael",
+  "license": "ISC"
+}
